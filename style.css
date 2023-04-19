@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+
+.meh {
+   text-align: center;
+   font-family: 'Poppins', sans-serif;
+   font-family: 'Roboto', sans-serif;
+   color: aliceblue;
+   font-size: x-large;
+}
+
+.freh {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+}
+
+.link {
+.btn-group a
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large;
+}
